@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+}
+main {
+    margin-top: 10px;
+    place-items:center;
+    color: rgb(104, 90, 70);
+    
+}
+
+table, td, th{
+    border: 4px solid rgb(169, 146, 113);
+    border-collapse: collapse;
+}
+table{
+    border-radius: 20px;
+}
+td, th{
+    text-align: center;
+    padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+th{
+    background-color: rgb(234, 191, 126);
+}
+td{
+    background-color: rgb(238, 215, 181);
+}
